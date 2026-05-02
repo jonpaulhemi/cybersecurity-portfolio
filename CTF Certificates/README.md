@@ -35,4 +35,4 @@
 - Cyber Apocalypse: [425th of 6483](2023/HTB_2023_Cyber-Apocalypse-CTF.pdf)
 
 ## Challenge Labs
-- [Hack the Box Pro Labs: Genesis](Challenge Labs/HTB-ProLab-Genesis.pdf): Genesis features a wide-range of OWASP Top 10 vulnerabilities, common privilege escalation techniques, and real-world security misconfigurations. It covers how to exploit the vulnerabilities, and importantly, how they can be mitigated.
+- [Hack the Box Pro Labs: Genesis](Challenge\ Labs/HTB-ProLab-Genesis.pdf): Genesis features a wide-range of OWASP Top 10 vulnerabilities, common privilege escalation techniques, and real-world security misconfigurations. It covers how to exploit the vulnerabilities, and importantly, how they can be mitigated.
