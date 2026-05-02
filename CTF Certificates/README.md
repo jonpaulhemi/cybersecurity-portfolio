@@ -3,8 +3,8 @@
 ## 2026
 
 ### National Cyber League
-- Spring Team Competition - Experienced Bracket: [3rd of 341 Teams (99th Percentile)]()
-- Spring Individual Competition - Experienced Bracket: [5th of 466 Individuals (99th Percentile)]()
+- Spring Team Competition - Experienced Bracket: [3rd of 341 Teams (99th Percentile) -- Awaiting Publication of Official Scouting Report]()
+- Spring Individual Competition - Experienced Bracket: [5th of 466 Individuals (99th Percentile) -- Awaiting Publication of Official Scouting Report]()
 
 
 ## 2025
