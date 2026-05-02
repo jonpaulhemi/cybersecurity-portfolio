@@ -1,5 +1,5 @@
 # About Me
-In 2022 I transitioned from a role as an IT Manager to a Cybersecurity Manager. This kicked off a long and never-ending journey to learn as much as I could about the world of cybersecurity.
+In 2022 I transitioned from a role as an IT Manager to a Cybersecurity Manager. This kicked off a long and never-ending journey to learn as much as I could about the world of cybersecurity, and obtain highly valuable skills relevant to my new role.
 
 By the beginning of 2023, I had learned about Capture the Flag (CTF) competitions and platforms, such as TryHackMe and HackTheBox. In March 2023, I participated in my first-ever CTF event--HackTheBox's [Cyber Apocalypse CTF 2023: The Cursed Mission](https://www.hackthebox.com/events/cyber-apocalypse-2023), and I had a blast learning both how Jeopardy-style CTFs work and obtaining new skills.
 
