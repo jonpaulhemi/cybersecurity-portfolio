@@ -6,4 +6,3 @@ By the beginning of 2023, I had learned about Capture the Flag (CTF) competition
 Fast-forward to the HackTheBox's [Hack The Boo 2024 Competition](https://ctf.hackthebox.com/event/details/hack-the-boo-2024-competition-1813) in October 2024, where I first realized I had the potential to place respectably in CTF competitions. I had originally sought to use this CTF as a leisurely learning opportunity, but ended up completing all of the challenges and placing in the 99th percentile. Ever since, I have been using targeted CTF competitions as both a barometer to gauge my learning progress, and a fun and useful tool to keep my skills sharp.
 
 [CTF Participation Highlights](CTF%20Certificates)
-- 99th Percentile
